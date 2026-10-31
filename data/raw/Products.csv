@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,Brand,Price,CostPrice,SupplierID,ReorderLevel,LeadTimeDays
+PRD0001,CoreX Laptop 8133,Laptops,CoreX,126435.72,87015.23,SUP003,22,9
+PRD0002,Vivid Chargers & Cable 3181,Chargers & Cables,Vivid,4730.39,4110.53,SUP005,16,8
+PRD0003,Pulse Mobile Phone 4067,Mobile Phones,Pulse,43356.13,35930.19,SUP009,9,6
+PRD0004,Nexon Smartwatche 9214,Smartwatches,Nexon,3529.59,2684.91,SUP002,12,5
+PRD0005,Apex Batteries & Consumable 2259,Batteries & Consumables,Apex,3337.98,2381.35,SUP010,13,5
+PRD0006,Vivid Mobile Phone 2647,Mobile Phones,Vivid,18681.59,13211.29,SUP008,14,9
+PRD0007,Orion Batteries & Consumable 2749,Batteries & Consumables,Orion,2928.87,2182.39,SUP002,28,5
+PRD0008,CoreX Chargers & Cable 3183,Chargers & Cables,CoreX,4566.53,3482.22,SUP005,32,8
+PRD0009,NovaTech Chargers & Cable 1137,Chargers & Cables,NovaTech,1778.95,1278.13,SUP007,8,8
+PRD0010,Vivid Mobile Phone 3589,Mobile Phones,Vivid,39586.15,35329.44,SUP008,30,9
+PRD0011,Pulse Mobile Phone 7644,Mobile Phones,Pulse,80266.94,66144.59,SUP001,33,8
+PRD0012,Orion Keyboards & Mice 2734,Keyboards & Mice,Orion,7032.36,5767.89,SUP006,14,4
+PRD0013,Vertex Headphone 8002,Headphones,Vertex,15568.69,13259.97,SUP001,27,8
+PRD0014,Nexon Mobile Phone 5289,Mobile Phones,Nexon,92785.61,67589.96,SUP002,32,5
+PRD0015,Altura Batteries & Consumable 7478,Batteries & Consumables,Altura,602.65,467.37,SUP001,19,8
+PRD0016,Pulse Laptop 797,Laptops,Pulse,148214.81,118033.18,SUP005,23,8
+PRD0017,Orion Mobile Phone 9696,Mobile Phones,Orion,23843.32,18916.07,SUP010,23,5
+PRD0018,Orion Chargers & Cable 9335,Chargers & Cables,Orion,2635.42,1941.85,SUP009,18,6
+PRD0019,CoreX Headphone 1113,Headphones,CoreX,12729.8,10329.46,SUP006,28,4
+PRD0020,Vertex Batteries & Consumable 7421,Batteries & Consumables,Vertex,1059.3,803.04,SUP001,11,8
+PRD0021,Pulse Keyboards & Mice 8009,Keyboards & Mice,Pulse,3968.82,3456.44,SUP001,20,8
+PRD0022,Pulse Storage Device 2123,Storage Devices,Pulse,19852.36,14848.2,SUP002,14,5
+PRD0023,Nexon Chargers & Cable 5991,Chargers & Cables,Nexon,3463.44,2490.32,SUP009,11,6
+PRD0024,Vivid Keyboards & Mice 5136,Keyboards & Mice,Vivid,4908.06,3537.18,SUP003,22,9
+PRD0025,Orion Mobile Phone 2663,Mobile Phones,Orion,51333.9,45441.87,SUP001,26,8
+PRD0026,Vertex Batteries & Consumable 4531,Batteries & Consumables,Vertex,1883.09,1488.69,SUP005,16,8
+PRD0027,CoreX Chargers & Cable 6743,Chargers & Cables,CoreX,3642.98,3193.26,SUP007,18,8
+PRD0028,Orion Headphone 4059,Headphones,Orion,2950.32,2484.14,SUP006,15,4
+PRD0029,Altura Mobile Phone 261,Mobile Phones,Altura,31185.36,23043.47,SUP001,8,8
+PRD0030,Apex Laptop 3490,Laptops,Apex,58589.14,44569.84,SUP005,30,8
+PRD0031,Vertex Laptop 763,Laptops,Vertex,88301.41,68334.27,SUP005,32,8
+PRD0032,CoreX Chargers & Cable 5193,Chargers & Cables,CoreX,4214.82,3418.37,SUP006,31,4
+PRD0033,Pulse Chargers & Cable 967,Chargers & Cables,Pulse,3888.92,3138.95,SUP003,15,9
+PRD0034,Vertex Storage Device 8723,Storage Devices,Vertex,8043.62,5542.87,SUP005,20,8
+PRD0035,Orion Laptop 5569,Laptops,Orion,50493.25,44440.42,SUP007,29,8
+PRD0036,Nexon Headphone 6356,Headphones,Nexon,13992.25,12382.93,SUP005,34,8
+PRD0037,Nexon Laptop 1269,Laptops,Nexon,130123.64,104595.65,SUP005,11,8
+PRD0038,Orion Smartwatche 1236,Smartwatches,Orion,25735.77,19076.97,SUP005,15,8
+PRD0039,Vivid Keyboards & Mice 1119,Keyboards & Mice,Vivid,5610.52,3877.72,SUP010,10,5
+PRD0040,Zenith Laptop 1383,Laptops,Zenith,76391.22,52717.65,SUP010,16,5
+PRD0041,Orion Chargers & Cable 2110,Chargers & Cables,Orion,804.76,638.64,SUP003,9,9
+PRD0042,Zenith Mobile Phone 2225,Mobile Phones,Zenith,31482.28,24595.05,SUP001,9,8
+PRD0043,Nexon Storage Device 3571,Storage Devices,Nexon,3899.5,2787.61,SUP005,35,8
+PRD0044,Pulse Keyboards & Mice 5724,Keyboards & Mice,Pulse,7663.75,5286.82,SUP009,20,6
+PRD0045,Orion Headphone 8429,,Orion,3206.76,2446.33,SUP001,22,8
+PRD0046,Apex Batteries & Consumable 5168,Batteries & Consumables,Apex,2186.64,1802.31,SUP003,35,9
+PRD0047,NovaTech Smartwatche 6497,Smartwatches,NovaTech,10621.28,8594.58,SUP004,30,6
+PRD0048,Zenith Headphone 2857,Headphones,Zenith,12836.2,9863.04,SUP001,19,8
+PRD0049,NovaTech Chargers & Cable 8286,Chargers & Cables,NovaTech,2379.46,2101.76,SUP001,33,8
+PRD0050,Vertex Keyboards & Mice 7000,Keyboards & Mice,Vertex,976.56,878.4,SUP008,11,9
+PRD0051,Vertex Batteries & Consumable 1549,Batteries & Consumables,Vertex,4357.88,3917.05,SUP002,33,5
+PRD0052,Vertex Storage Device 5117,Storage Devices,Vertex,2626.82,2182.33,SUP008,15,9
+PRD0053,Vertex Smartwatche 8099,Smartwatches,Vertex,22839.13,15721.05,SUP007,16,8
+PRD0054,Pulse Keyboards & Mice 2196,Keyboards & Mice,Pulse,7173.12,5366.04,SUP010,30,5
+PRD0055,Pulse Chargers & Cable 8995,Chargers & Cables,Pulse,2678.31,2359.39,SUP010,12,5
+PRD0056,Pulse Batteries & Consumable 9917,Batteries & Consumables,Pulse,4315.95,3164.25,SUP002,31,5
+PRD0057,Orion Chargers & Cable 7562,Chargers & Cables,Orion,3248.9,2381.48,SUP006,27,4
+PRD0058,Apex Headphone 3078,Headphones,Apex,13171.81,10008.06,SUP006,25,4
+PRD0059,NovaTech Headphone 2939,Headphones,NovaTech,17660.09,12384.31,SUP003,18,9
+PRD0060,Vivid Laptop 785,Laptops,Vivid,106893.12,79902.76,SUP002,22,5
+PRD0061,Vivid Mobile Phone 7810,Mobile Phones,Vivid,12488.84,9399.33,SUP001,35,8
+PRD0062,Orion Keyboards & Mice 6968,Keyboards & Mice,Orion,684.24,527.26,SUP006,29,4
+PRD0063,Altura Headphone 9167,Headphones,Altura,17988.69,13990.21,SUP005,16,8
+PRD0064,CoreX Headphone 9657,,CoreX,8781.18,7298.67,SUP009,24,6
+PRD0065,Nexon Mobile Phone 262,Mobile Phones,Nexon,18485.46,13663.99,SUP001,34,8
+PRD0066,Nexon Laptop 3391,Laptops,Nexon,51497.08,45041.3,SUP007,33,8
+PRD0067,Altura Smartwatche 1005,Smartwatches,Altura,12503.24,9065.16,SUP005,19,8
+PRD0068,Zenith Smartwatche 2114,Smartwatches,Zenith,21167.73,18795.37,SUP005,14,8
+PRD0069,CoreX Chargers & Cable 7996,Chargers & Cables,CoreX,2357.45,1850.75,SUP002,17,5
+PRD0070,Zenith Batteries & Consumable 5775,Batteries & Consumables,Zenith,2936.01,2222.45,SUP003,32,9
+PRD0071,Vivid Chargers & Cable 5447,Chargers & Cables,Vivid,1918.78,1490.22,SUP007,33,8
+PRD0072,Altura Storage Device 2743,Storage Devices,Altura,10790.94,7610.85,SUP006,32,4
+PRD0073,Apex Storage Device 2397,Storage Devices,Apex,11853.73,9518.22,SUP002,17,5
+PRD0074,Vivid Keyboards & Mice 789,Keyboards & Mice,Vivid,,2956.17,SUP006,34,4
+PRD0075,NovaTech Mobile Phone 9714,Mobile Phones,NovaTech,77946,60918.83,SUP002,20,5
+PRD0076,Apex Headphone 771,,Apex,12078.97,8910.31,SUP002,26,5
+PRD0077,Altura Chargers & Cable 1271,Chargers & Cables,Altura,,2154.56,SUP002,18,5
+PRD0078,Altura Chargers & Cable 9235,Chargers & Cables,Altura,4401.83,3557.33,SUP003,20,9
+PRD0079,Nexon Chargers & Cable 1549,Chargers & Cables,Nexon,2390.42,1630.57,SUP002,28,5
+PRD0080,CoreX Headphone 2639,Headphones,CoreX,504.16,433.17,SUP004,15,6
+PRD0081,Altura Chargers & Cable 6385,Chargers & Cables,Altura,2012.22,1398.15,SUP009,15,6
+PRD0082,Vivid Headphone 4360,Headphones,Vivid,1725.52,1549.37,SUP006,11,4
+PRD0083,CoreX Batteries & Consumable 6264,Batteries & Consumables,CoreX,331.81,292.17,SUP001,22,8
+PRD0084,Apex Storage Device 3770,Storage Devices,Apex,1212.09,962.94,SUP008,35,9
+PRD0085,CoreX Smartwatche 8200,Smartwatches,CoreX,16764.29,14085.84,SUP007,18,8
+PRD0086,Altura Laptop 2038,Laptops,Altura,76591.06,67386.82,SUP010,18,5
+PRD0087,Vertex Laptop 6076,Laptops,Vertex,69037.2,54197.36,SUP003,8,9
+PRD0088,Pulse Mobile Phone 6688,Mobile Phones,Pulse,71707.65,64484.09,SUP001,24,8
+PRD0089,Vivid Smartwatche 6404,Smartwatches,Vivid,13723.93,11454.81,SUP005,22,8
+PRD0090,Apex Mobile Phone 7975,Mobile Phones,Apex,82195.5,61036.59,SUP004,27,6
+PRD0091,CoreX Keyboards & Mice 697,Keyboards & Mice,CoreX,5425.24,4551.78,SUP010,13,5
+PRD0092,Nexon Laptop 2436,Laptops,Nexon,139061.37,123775.45,SUP008,31,9
+PRD0093,NovaTech Storage Device 9979,Storage Devices,NovaTech,2764.5,2249.86,SUP001,29,8
+PRD0094,Apex Keyboards & Mice 6271,Keyboards & Mice,Apex,1382.61,953.43,SUP010,35,5
+PRD0095,CoreX Chargers & Cable 2190,Chargers & Cables,CoreX,4020.25,3389.17,SUP001,32,8
+PRD0096,Vivid Chargers & Cable 6666,Chargers & Cables,Vivid,3004.49,2054.73,SUP004,22,6
+PRD0097,Zenith Mobile Phone 4724,Mobile Phones,Zenith,84925.31,65207.72,SUP008,16,9
+PRD0098,Apex Chargers & Cable 1617,Chargers & Cables,Apex,4533.06,3093.27,SUP005,21,8
+PRD0099,Zenith Keyboards & Mice 3748,Keyboards & Mice,Zenith,6767.17,5993.7,SUP002,25,5
+PRD0100,CoreX Laptop 1637,Laptops,CoreX,76992.79,55102.07,SUP006,33,4
+PRD0101,Zenith Batteries & Consumable 3237,Batteries & Consumables,Zenith,1114.5,799.38,SUP005,24,8
+PRD0102,CoreX Chargers & Cable 197,Chargers & Cables,CoreX,733.64,652.7,SUP002,25,5
+PRD0103,Vertex Chargers & Cable 3850,Chargers & Cables,Vertex,2012.84,1795.29,SUP003,12,9
+PRD0104,Zenith Storage Device 8635,Storage Devices,Zenith,21077.04,15138.26,SUP009,27,6
+PRD0105,Altura Chargers & Cable 5513,Chargers & Cables,Altura,4033.73,3071.48,SUP007,27,8
+PRD0106,CoreX Headphone 710,Headphones,CoreX,4285.67,3368.46,SUP007,16,8
+PRD0107,Vertex Mobile Phone 1954,Mobile Phones,Vertex,59962.84,47040.43,SUP006,18,4
+PRD0108,NovaTech Keyboards & Mice 5155,Keyboards & Mice,NovaTech,2564.03,2016.98,SUP008,31,9
+PRD0109,Nexon Laptop 2424,Laptops,Nexon,87924.73,59859.7,SUP004,29,6
+PRD0110,Orion Keyboards & Mice 9469,Keyboards & Mice,Orion,8107.69,6470.39,SUP008,8,9
+PRD0111,Orion Storage Device 5874,Storage Devices,Orion,13855.45,10190.24,SUP004,25,6
+PRD0112,Altura Headphone 1849,Headphones,Altura,1110.14,780.56,SUP008,13,9
+PRD0113,Orion Mobile Phone 881,Mobile Phones,Orion,82831.03,66212.22,SUP009,34,6
+PRD0114,Vivid Headphone 6923,Headphones,Vivid,7345.47,6169.82,SUP003,9,9
+PRD0115,CoreX Storage Device 3967,Storage Devices,CoreX,10696.22,9522.17,SUP003,22,9
+PRD0116,CoreX Headphone 5076,Headphones,CoreX,15413.39,13751.94,SUP002,33,5
+PRD0117,Apex Chargers & Cable 5979,Chargers & Cables,Apex,1745.9,1213.49,SUP010,28,5
+PRD0118,Vertex Mobile Phone 9359,Mobile Phones,Vertex,71963.5,60312.18,SUP003,21,9
+PRD0119,NovaTech Headphone 1677,Headphones,NovaTech,4921.36,4423.72,SUP003,12,9
+PRD0120,Orion Headphone 2374,Headphones,Orion,12675,11271.47,SUP005,13,8
+PRD0121,Zenith Laptop 6844,Laptops,Zenith,92977.51,63999.5,SUP005,13,8
+PRD0122,Apex Keyboards & Mice 5646,Keyboards & Mice,Apex,1252.38,880.69,SUP002,29,5
+PRD0123,Vertex Keyboards & Mice 6952,Keyboards & Mice,Vertex,8925.84,7912.46,SUP010,25,5
+PRD0124,Vertex Chargers & Cable 2651,Chargers & Cables,Vertex,4432.1,3485.68,SUP006,21,4
+PRD0125,CoreX Headphone 107,Headphones,CoreX,16363.99,12670.8,SUP005,17,8
+PRD0126,Altura Laptop 2655,Laptops,Altura,108777.67,84886.68,SUP006,21,4
+PRD0127,Vivid Laptop 8776,Laptops,Vivid,133468.13,98571.53,SUP001,20,8
+PRD0128,Pulse Laptop 7339,Laptops,Pulse,91593.76,64940.4,SUP005,10,8
+PRD0129,Nexon Chargers & Cable 5100,Chargers & Cables,Nexon,1339.63,1159.3,SUP009,13,6
+PRD0130,Altura Headphone 7071,Headphones,Altura,3307,2733.3,SUP010,15,5
+PRD0131,Orion Mobile Phone 3625,,Orion,28766.03,20003.33,SUP002,19,5
+PRD0132,Apex Laptop 2922,Laptops,Apex,40911.76,30529.26,SUP001,20,8
+PRD0133,Vertex Laptop 358,Laptops,Vertex,51085.03,36068.07,SUP010,18,5
+PRD0134,Apex Chargers & Cable 1998,Chargers & Cables,Apex,4812.38,3838.34,SUP009,19,6
+PRD0135,Altura Smartwatche 6729,Smartwatches,Altura,24759.12,22255.18,SUP010,8,5
+PRD0136,NovaTech Laptop 3300,Laptops,NovaTech,128033.52,108790.4,SUP009,24,6
+PRD0137,Nexon Batteries & Consumable 7267,Batteries & Consumables,Nexon,4098.29,3687.45,SUP009,23,6
+PRD0138,Altura Headphone 712,Headphones,Altura,10233.18,7506.45,SUP006,18,4
+PRD0139,Pulse Batteries & Consumable 2407,,Pulse,1238.23,1061.8,SUP008,20,9
+PRD0140,Zenith Keyboards & Mice 6609,Keyboards & Mice,Zenith,1031.65,854.4,SUP001,25,8
+PRD0141,Zenith Mobile Phone 6006,Mobile Phones,Zenith,56706.46,49590.61,SUP010,18,5
+PRD0142,Vivid Headphone 7283,Headphones,Vivid,7092.17,6368.8,SUP004,35,6
+PRD0143,NovaTech Chargers & Cable 8866,Chargers & Cables,NovaTech,4120.6,3592.1,SUP001,19,8
+PRD0144,Nexon Chargers & Cable 5208,Chargers & Cables,Nexon,1524.21,1365.61,SUP008,13,9
+PRD0145,Pulse Keyboards & Mice 769,Keyboards & Mice,Pulse,4060.49,2903.95,SUP001,16,8
+PRD0146,Apex Keyboards & Mice 1383,Keyboards & Mice,Apex,3711.72,3193.97,SUP003,23,9
+PRD0147,Zenith Chargers & Cable 1629,Chargers & Cables,Zenith,3805.44,2764.51,SUP004,11,6
+PRD0148,Nexon Chargers & Cable 3811,Chargers & Cables,Nexon,992.7,725.08,SUP008,10,9
+PRD0149,Pulse Mobile Phone 9852,Mobile Phones,Pulse,90414.92,78063.96,SUP006,35,4
+PRD0150,Vertex Headphone 3964,Headphones,Vertex,13992.23,10411.82,SUP010,23,5
+PRD0151,Orion Laptop 7933,Laptops,Orion,85776.01,76105.41,SUP007,31,8
+PRD0152,Pulse Storage Device 326,Storage Devices,Pulse,2013.4,1434.48,SUP008,34,9
+PRD0153,Vivid Keyboards & Mice 9687,Keyboards & Mice,Vivid,8914.29,6697.03,SUP002,33,5
+PRD0154,Zenith Batteries & Consumable 745,Batteries & Consumables,Zenith,2062.22,1562.2,SUP010,32,5
+PRD0155,Vertex Headphone 7644,Headphones,Vertex,10901.93,8891.67,SUP008,19,9
+PRD0156,Apex Storage Device 3090,Storage Devices,Apex,1817.52,1307.28,SUP003,18,9
+PRD0157,Vivid Smartwatche 9446,Smartwatches,Vivid,11165.14,8037.42,SUP007,12,8
+PRD0158,CoreX Laptop 4179,Laptops,CoreX,58806.07,52912.14,SUP003,32,9
+PRD0159,Pulse Keyboards & Mice 6399,Keyboards & Mice,Pulse,1682.76,1341.03,SUP007,25,8
+PRD0160,Altura Chargers & Cable 9533,Chargers & Cables,Altura,4729.87,4150.54,SUP002,26,5
+PRD0161,NovaTech Storage Device 9272,Storage Devices,NovaTech,18850.93,14780.16,SUP010,30,5
+PRD0162,Vertex Headphone 1815,Headphones,Vertex,14953.61,12476.66,SUP006,30,4
+PRD0163,Apex Laptop 6550,Laptops,Apex,130473.55,95242.95,SUP003,13,9
+PRD0164,Apex Smartwatche 5533,Smartwatches,Apex,7365.44,6416.08,SUP003,29,9
+PRD0165,Vivid Storage Device 2426,Storage Devices,Vivid,19149.97,13176.86,SUP009,25,6
+PRD0166,Zenith Headphone 6516,Headphones,Zenith,1047.79,774.44,SUP007,33,8
+PRD0167,Pulse Mobile Phone 6863,Mobile Phones,Pulse,87128.63,61981.63,SUP005,13,8
+PRD0168,Vertex Batteries & Consumable 9015,Batteries & Consumables,Vertex,4343.89,3183.11,SUP010,11,5
+PRD0169,Apex Headphone 1189,Headphones,Apex,8240.23,6850.68,SUP007,19,8
+PRD0170,Vertex Keyboards & Mice 9227,Keyboards & Mice,Vertex,3090.46,2288.88,SUP009,26,6
+PRD0171,Altura Storage Device 255,Storage Devices,Altura,16510.08,14131.32,SUP001,34,8
+PRD0172,Nexon Chargers & Cable 6444,Chargers & Cables,Nexon,4360.4,3238.54,SUP007,9,8
+PRD0173,Orion Smartwatche 6244,Smartwatches,Orion,16281.71,12964.52,SUP006,24,4
+PRD0174,Altura Laptop 3930,Laptops,Altura,94274.4,81544.14,SUP010,18,5
+PRD0175,Nexon Chargers & Cable 8931,Chargers & Cables,Nexon,1137.95,1001.33,SUP009,18,6
+PRD0176,Vertex Chargers & Cable 6759,,Vertex,895.24,716.36,SUP001,28,8
+PRD0177,CoreX Laptop 6140,Laptops,CoreX,92703.24,83068.63,SUP004,23,6
+PRD0178,Zenith Laptop 7458,Laptops,Zenith,125209.33,104585.23,SUP009,9,6
+PRD0179,Pulse Batteries & Consumable 6470,Batteries & Consumables,Pulse,4112.08,2825.61,SUP004,9,6
+PRD0180,Vivid Keyboards & Mice 1048,Keyboards & Mice,Vivid,1913.49,1527.61,SUP010,30,5
+PRD0181,Orion Headphone 6215,Headphones,Orion,521.56,400.75,SUP003,15,9
+PRD0182,NovaTech Batteries & Consumable 4746,Batteries & Consumables,NovaTech,2772.15,2343.97,SUP009,20,6
+PRD0183,Vivid Batteries & Consumable 1887,Batteries & Consumables,Vivid,2557.02,2174.44,SUP002,17,5
+PRD0184,Apex Chargers & Cable 1238,Chargers & Cables,Apex,930,703.7,SUP004,15,6
+PRD0185,NovaTech Storage Device 4841,Storage Devices,NovaTech,7439.99,5729.85,SUP006,11,4
+PRD0186,Nexon Laptop 9758,Laptops,Nexon,80856.1,55260.51,SUP002,22,5
+PRD0187,Apex Headphone 6801,Headphones,Apex,3117.66,2487.23,SUP008,8,9
+PRD0188,Zenith Smartwatche 241,Smartwatches,Zenith,19436.24,15801.28,SUP008,18,9
+PRD0189,Orion Storage Device 4696,Storage Devices,Orion,21453.52,15901.02,SUP001,14,8
+PRD0190,Altura Storage Device 5761,Storage Devices,Altura,14590.85,10701.61,SUP003,24,9
+PRD0191,Orion Headphone 8572,Headphones,Orion,17171.35,12024.75,SUP010,34,5
+PRD0192,Altura Storage Device 7099,Storage Devices,Altura,16044.56,11795.71,SUP009,27,6
+PRD0193,CoreX Storage Device 1850,Storage Devices,CoreX,3551.92,3116.4,SUP005,31,8
+PRD0194,Zenith Batteries & Consumable 2067,Batteries & Consumables,Zenith,2611.98,2340.23,SUP006,25,4
+PRD0195,Vivid Smartwatche 4278,Smartwatches,Vivid,14127.15,12060.67,SUP004,29,6
+PRD0196,Vertex Chargers & Cable 3046,Chargers & Cables,Vertex,1828.18,1333.33,SUP010,29,5
+PRD0197,CoreX Chargers & Cable 5494,Chargers & Cables,CoreX,4715,4168.38,SUP002,19,5
+PRD0198,Vivid Headphone 5175,Headphones,Vivid,9849.24,6952.01,SUP008,16,9
+PRD0199,Nexon Batteries & Consumable 7330,Batteries & Consumables,Nexon,463.04,332.74,SUP006,12,4
+PRD0200,Vivid Batteries & Consumable 1631,Batteries & Consumables,Vivid,1674.33,1388.25,SUP005,17,8
+PRD0201,Vertex Headphone 3090,Headphones,Vertex,17605.66,15067.12,SUP009,11,6
+PRD0202,Orion Headphone 4593,Headphones,Orion,12630.89,9085.18,SUP001,12,8
+PRD0203,Altura Keyboards & Mice 1033,Keyboards & Mice,Altura,658.3,495.38,SUP005,35,8
+PRD0204,Pulse Keyboards & Mice 2823,Keyboards & Mice,Pulse,8578.48,7486.2,SUP006,35,4
+PRD0205,Altura Batteries & Consumable 385,Batteries & Consumables,Altura,4043.37,3109.95,SUP005,17,8
+PRD0206,Vivid Laptop 6916,Laptops,Vivid,103225.76,78983.43,SUP006,18,4
+PRD0207,Altura Mobile Phone 1862,Mobile Phones,Altura,33998.72,23603.8,SUP006,28,4
+PRD0208,Vivid Keyboards & Mice 140,Keyboards & Mice,Vivid,8541.95,6512.66,SUP007,31,8
+PRD0209,Orion Laptop 8359,Laptops,Orion,123577.57,94574.32,SUP004,17,6
+PRD0210,Altura Headphone 7904,Headphones,Altura,8976.97,6774.2,SUP008,35,9
+PRD0211,Zenith Smartwatche 3298,Smartwatches,Zenith,16020.44,12312.59,SUP007,15,8
+PRD0212,Nexon Smartwatche 7283,Smartwatches,Nexon,22206.71,17636.59,SUP009,9,6
+PRD0213,NovaTech Headphone 2579,Headphones,NovaTech,1213.2,1048.11,SUP007,30,8
+PRD0214,Vertex Chargers & Cable 878,Chargers & Cables,Vertex,2277.24,1686.38,SUP003,15,9
+PRD0215,Apex Keyboards & Mice 1592,Keyboards & Mice,Apex,5461.52,4134.02,SUP003,23,9
+PRD0216,Pulse Chargers & Cable 1448,Chargers & Cables,Pulse,2474.5,1891.85,SUP008,34,9
+PRD0217,Orion Laptop 7951,Laptops,Orion,68140.13,54277.69,SUP005,29,8
+PRD0218,NovaTech Chargers & Cable 7256,Chargers & Cables,NovaTech,3759.75,2662.64,SUP004,12,6
+PRD0219,Vivid Batteries & Consumable 3616,Batteries & Consumables,Vivid,2008.08,1787.98,SUP008,34,9
+PRD0220,Vivid Keyboards & Mice 9350,Keyboards & Mice,Vivid,1706.55,1528.06,SUP006,32,4
+PRD0221,NovaTech Storage Device 4677,Storage Devices,NovaTech,14510.48,11998.58,SUP002,10,5
+PRD0222,Altura Keyboards & Mice 7568,Keyboards & Mice,Altura,5019.56,3972.88,SUP004,19,6
+PRD0223,Nexon Headphone 1547,Headphones,Nexon,1926.71,1563.11,SUP004,20,6
+PRD0224,Zenith Chargers & Cable 6417,Chargers & Cables,Zenith,1219.72,985.48,SUP006,20,4
+PRD0225,Vivid Chargers & Cable 6848,Chargers & Cables,Vivid,1137.35,813.32,SUP006,17,4
+PRD0226,Zenith Storage Device 8086,Storage Devices,Zenith,4162.58,2866.47,SUP001,11,8
+PRD0227,Zenith Laptop 3840,Laptops,Zenith,78740.7,56207.16,SUP008,16,9
+PRD0228,Vertex Keyboards & Mice 1946,Keyboards & Mice,Vertex,5770.25,4259.73,SUP006,29,4
+PRD0229,Nexon Chargers & Cable 871,Chargers & Cables,Nexon,3873.46,3055.9,SUP003,31,9
+PRD0230,Zenith Smartwatche 8870,Smartwatches,Zenith,15760.45,12402.23,SUP009,30,6
+PRD0231,Zenith Mobile Phone 293,Mobile Phones,Zenith,59161.08,52862.39,SUP002,34,5
+PRD0232,Altura Batteries & Consumable 1285,Batteries & Consumables,Altura,1840.27,1410.82,SUP008,9,9
+PRD0233,Nexon Keyboards & Mice 9402,Keyboards & Mice,Nexon,5500.2,3990.67,SUP010,26,5
+PRD0234,Zenith Headphone 7529,Headphones,Zenith,11962.66,8155.31,SUP003,8,9
+PRD0235,Zenith Storage Device 3836,Storage Devices,Zenith,6531.26,5362.08,SUP005,32,8
+PRD0236,Apex Smartwatche 6816,Smartwatches,Apex,11487.1,9161.21,SUP006,14,4
+PRD0237,Zenith Batteries & Consumable 9021,Batteries & Consumables,Zenith,3778.39,3204.55,SUP010,24,5
+PRD0238,Altura Headphone 3551,Headphones,Altura,14080,11416.51,SUP006,10,4
+PRD0239,CoreX Chargers & Cable 7716,Chargers & Cables,CoreX,3069,2335.02,SUP004,27,6
+PRD0240,Vivid Chargers & Cable 9936,Chargers & Cables,Vivid,1958.32,1541.64,SUP003,27,9
+PRD0241,NovaTech Batteries & Consumable 8433,Batteries & Consumables,NovaTech,1917.34,1696.44,SUP004,28,6
+PRD0242,Vertex Mobile Phone 1555,Mobile Phones,Vertex,46033.39,40443.71,SUP001,10,8
+PRD0243,Orion Headphone 5908,Headphones,Orion,7587.86,5839.3,SUP004,10,6
+PRD0244,Zenith Laptop 1425,Laptops,Zenith,98688.62,74433.26,SUP001,24,8
+PRD0245,NovaTech Headphone 9505,Headphones,NovaTech,2167.08,1639.47,SUP001,14,8
+PRD0246,Altura Keyboards & Mice 4750,Keyboards & Mice,Altura,3015.69,2449.37,SUP010,34,5
+PRD0247,Orion Headphone 5087,Headphones,Orion,15514.76,13932.46,SUP006,33,4
+PRD0248,NovaTech Headphone 4797,Headphones,NovaTech,10797.22,8295.32,SUP005,21,8
+PRD0249,Nexon Storage Device 440,Storage Devices,Nexon,8967.85,7603.43,SUP004,24,6
+PRD0250,Pulse Batteries & Consumable 2068,Batteries & Consumables,Pulse,1132.57,799.12,SUP003,25,9
+PRD0251,CoreX Mobile Phone 5582,Mobile Phones,CoreX,46456.12,38428.7,SUP001,20,8
+PRD0252,Zenith Laptop 6476,Laptops,Zenith,82750.86,62289.4,SUP006,27,4
+PRD0253,Vivid Chargers & Cable 5563,Chargers & Cables,Vivid,856.92,686.5,SUP002,27,5
+PRD0254,Pulse Headphone 5012,Headphones,Pulse,10787.98,7457.86,SUP008,28,9
+PRD0255,Vivid Laptop 955,Laptops,Vivid,58808.39,48279.62,SUP010,34,5
+PRD0256,Pulse Headphone 2966,Headphones,Pulse,7138.78,5473.89,SUP005,25,8
+PRD0257,Nexon Headphone 282,Headphones,Nexon,6742.81,5277.11,SUP007,11,8
+PRD0258,Vivid Storage Device 5770,Storage Devices,Vivid,17286.67,12875.37,SUP010,8,5
+PRD0259,Vertex Mobile Phone 5102,Mobile Phones,Vertex,46834.07,33246.22,SUP002,25,5
+PRD0260,NovaTech Smartwatche 8310,Smartwatches,NovaTech,16158.16,12623.09,SUP008,8,9
+PRD0261,Altura Chargers & Cable 6232,Chargers & Cables,Altura,315.81,215.68,SUP002,33,5
+PRD0262,NovaTech Headphone 6346,Headphones,NovaTech,2651.99,2251.94,SUP004,33,6
+PRD0263,CoreX Keyboards & Mice 4715,Keyboards & Mice,CoreX,749.76,569.22,SUP001,20,8
+PRD0264,Vivid Laptop 8465,Laptops,Vivid,55413.54,47677.68,SUP005,27,8
+PRD0265,Nexon Chargers & Cable 3841,Chargers & Cables,Nexon,579.49,508.37,SUP009,27,6
+PRD0266,Nexon Mobile Phone 3860,Mobile Phones,Nexon,58866.35,44067.01,SUP001,30,8
+PRD0267,Orion Mobile Phone 7093,Mobile Phones,Orion,42571.97,33820.14,SUP009,17,6
+PRD0268,Apex Chargers & Cable 4133,Chargers & Cables,Apex,3476.94,3115.95,SUP008,34,9
+PRD0269,Orion Laptop 1089,Laptops,Orion,67421.94,46245.96,SUP006,18,4
+PRD0270,NovaTech Mobile Phone 8711,Mobile Phones,NovaTech,58469.76,49352.6,SUP007,16,8
+PRD0271,Apex Headphone 1874,Headphones,Apex,9630.28,7941.29,SUP003,16,9
+PRD0272,Altura Mobile Phone 3908,Mobile Phones,Altura,54305.31,47372.52,SUP001,12,8
+PRD0273,CoreX Storage Device 8022,Storage Devices,CoreX,3266.64,2836.82,SUP005,33,8
+PRD0274,Vivid Mobile Phone 5989,Mobile Phones,Vivid,89764.32,66314.49,SUP002,8,5
+PRD0275,Vivid Chargers & Cable 301,Chargers & Cables,Vivid,937.55,804.95,SUP005,24,8
+PRD0276,Apex Keyboards & Mice 1942,Keyboards & Mice,Apex,6658.22,5763.65,SUP008,29,9
+PRD0277,CoreX Chargers & Cable 9201,Chargers & Cables,CoreX,1287.62,885.96,SUP009,9,6
+PRD0278,Apex Headphone 4758,Headphones,Apex,4967.86,3747.96,SUP002,31,5
+PRD0279,Zenith Laptop 7644,Laptops,Zenith,147393.02,120516.6,SUP003,20,9
+PRD0280,Nexon Batteries & Consumable 870,Batteries & Consumables,Nexon,177.07,149.85,SUP003,16,9
+PRD0281,Orion Storage Device 1728,Storage Devices,Orion,18346.95,13022.41,SUP001,11,8
+PRD0282,Zenith Storage Device 486,Storage Devices,Zenith,17000.02,14876.99,SUP008,12,9
+PRD0283,Altura Laptop 6501,Laptops,Altura,125052.27,87272.84,SUP006,18,4
+PRD0284,NovaTech Mobile Phone 4108,Mobile Phones,NovaTech,60253.03,41755.8,SUP008,31,9
+PRD0285,Vertex Headphone 2382,Headphones,Vertex,14969.68,11276.15,SUP009,26,6
+PRD0286,NovaTech Keyboards & Mice 8080,Keyboards & Mice,NovaTech,,4381.27,SUP005,28,8
+PRD0287,CoreX Headphone 5576,Headphones,CoreX,3287.53,2521.24,SUP003,10,9
+PRD0288,Pulse Storage Device 4769,Storage Devices,Pulse,7271.21,5158.08,SUP005,19,8
+PRD0289,NovaTech Headphone 9442,Headphones,NovaTech,17883.4,13134.75,SUP005,33,8
+PRD0290,Vivid Batteries & Consumable 7546,Batteries & Consumables,Vivid,498.12,416.67,SUP005,26,8
+PRD0291,Altura Keyboards & Mice 5724,Keyboards & Mice,Altura,1249.25,945.54,SUP003,26,9
+PRD0292,Zenith Storage Device 1919,Storage Devices,Zenith,16928.12,11787.92,SUP010,20,5
+PRD0293,Pulse Laptop 1230,Laptops,Pulse,81457.03,57158.18,SUP004,35,6
+PRD0294,Apex Keyboards & Mice 6663,Keyboards & Mice,Apex,7937.65,6589.97,SUP009,14,6
+PRD0295,Vertex Chargers & Cable 3600,Chargers & Cables,Vertex,4364.17,3567.06,SUP010,22,5
+PRD0296,Nexon Mobile Phone 2220,Mobile Phones,Nexon,,25614.4,SUP009,30,6
+PRD0297,Pulse Mobile Phone 3359,Mobile Phones,Pulse,36569.17,27842.09,SUP002,14,5
+PRD0298,Apex Batteries & Consumable 1923,Batteries & Consumables,Apex,2783.26,2159.93,SUP008,33,9
+PRD0299,Vertex Smartwatche 2342,Smartwatches,Vertex,11395.25,8880.66,SUP008,15,9
+PRD0300,Vivid Mobile Phone 3234,Mobile Phones,Vivid,59894.24,46714.45,SUP007,12,8
+PRD0301,Nexon Headphone 459,Headphones,Nexon,8277.34,7422.9,SUP008,28,9
+PRD0302,CoreX Keyboards & Mice 1241,Keyboards & Mice,CoreX,5407.44,4666.31,SUP003,21,9
+PRD0303,Orion Smartwatche 4100,Smartwatches,Orion,18421.04,13501.6,SUP006,11,4
+PRD0304,Altura Laptop 3461,Laptops,Altura,89054.33,69522.93,SUP001,30,8
+PRD0305,Altura Laptop 7935,Laptops,Altura,144080.38,102819.1,SUP007,17,8
+PRD0306,Pulse Mobile Phone 106,Mobile Phones,Pulse,87538.58,63112.81,SUP001,27,8
+PRD0307,Orion Keyboards & Mice 6664,Keyboards & Mice,Orion,1247.59,1081.94,SUP009,22,6
+PRD0308,Altura Chargers & Cable 5028,Chargers & Cables,Altura,2704.13,2287.33,SUP001,25,8
+PRD0309,NovaTech Mobile Phone 2706,Mobile Phones,NovaTech,49472.51,40233.01,SUP001,27,8
+PRD0310,Orion Storage Device 6006,Storage Devices,Orion,12267.35,9024.93,SUP007,20,8
+PRD0311,CoreX Keyboards & Mice 7711,Keyboards & Mice,CoreX,6524.77,5124.09,SUP002,15,5
+PRD0312,Apex Laptop 2111,Laptops,Apex,128332,103334.25,SUP005,16,8
+PRD0313,Vertex Mobile Phone 5646,Mobile Phones,Vertex,86014.14,76063.88,SUP008,23,9
+PRD0314,NovaTech Laptop 1929,Laptops,NovaTech,144468.52,109213.51,SUP008,26,9
+PRD0315,Pulse Batteries & Consumable 1029,Batteries & Consumables,Pulse,1772.33,1518.22,SUP003,23,9
+PRD0316,Orion Chargers & Cable 9755,Chargers & Cables,Orion,2474.04,2120.74,SUP007,14,8
+PRD0317,Zenith Keyboards & Mice 1154,Keyboards & Mice,Zenith,1747.08,1335.09,SUP003,21,9
+PRD0318,Orion Chargers & Cable 5844,Chargers & Cables,Orion,2686.96,2022.15,SUP006,35,4
+PRD0319,Apex Keyboards & Mice 7080,Keyboards & Mice,Apex,8387.57,6566.65,SUP006,21,4
+PRD0320,Altura Smartwatche 3515,Smartwatches,Altura,16768.98,14761.43,SUP003,32,9
+PRD0321,Vertex Mobile Phone 6318,Mobile Phones,Vertex,70434.31,57194.13,SUP007,34,8
+PRD0322,Orion Chargers & Cable 7933,Chargers & Cables,Orion,4887.12,3513.36,SUP003,11,9
+PRD0323,Zenith Laptop 4558,Laptops,Zenith,91742.69,80081.37,SUP008,33,9
+PRD0324,CoreX Mobile Phone 2409,Mobile Phones,CoreX,82769.17,59928.87,SUP010,22,5
+PRD0325,Pulse Headphone 4109,Headphones,Pulse,3730.24,3114.9,SUP004,10,6
+PRD0326,Pulse Mobile Phone 2269,Mobile Phones,Pulse,77026.43,66184.94,SUP001,12,8
+PRD0327,Pulse Mobile Phone 6413,Mobile Phones,Pulse,87844.47,70855.7,SUP004,8,6
+PRD0328,Pulse Headphone 6889,Headphones,Pulse,2023.18,1457.77,SUP007,10,8
+PRD0329,Orion Batteries & Consumable 885,Batteries & Consumables,Orion,1743.44,1367.15,SUP004,22,6
+PRD0330,Vivid Laptop 2516,,Vivid,41701.13,37507.31,SUP006,31,4
+PRD0331,Orion Mobile Phone 2036,Mobile Phones,Orion,63504.71,49956.71,SUP009,34,6
+PRD0332,Zenith Smartwatche 3336,Smartwatches,Zenith,17106.83,12408.89,SUP001,15,8
+PRD0333,Vivid Storage Device 2452,Storage Devices,Vivid,14366.69,12377.62,SUP005,11,8
+PRD0334,Apex Headphone 8656,Headphones,Apex,6813.52,4774.26,SUP007,9,8
+PRD0335,Zenith Keyboards & Mice 5016,Keyboards & Mice,Zenith,6998.52,5441.63,SUP001,31,8
+PRD0336,Nexon Chargers & Cable 1046,Chargers & Cables,Nexon,1389.88,1158.53,SUP004,31,6
+PRD0337,Vertex Mobile Phone 9669,Mobile Phones,Vertex,71680.35,51089.57,SUP006,17,4
+PRD0338,Vertex Batteries & Consumable 4957,Batteries & Consumables,Vertex,3054.27,2204.89,SUP002,11,5
+PRD0339,NovaTech Storage Device 440,Storage Devices,NovaTech,16959.77,14705.23,SUP010,10,5
+PRD0340,Pulse Headphone 8591,Headphones,Pulse,7919.03,6860.6,SUP005,9,8
+PRD0341,Nexon Mobile Phone 5031,Mobile Phones,Nexon,28465.5,20175.29,SUP010,32,5
+PRD0342,Vertex Batteries & Consumable 3556,Batteries & Consumables,Vertex,2180.72,1705.81,SUP001,24,8
+PRD0343,Altura Keyboards & Mice 6726,Keyboards & Mice,Altura,1852.48,1539.97,SUP006,30,4
+PRD0344,Apex Keyboards & Mice 6752,Keyboards & Mice,Apex,2303.14,1968.35,SUP006,28,4
+PRD0345,NovaTech Chargers & Cable 3270,Chargers & Cables,NovaTech,3244.11,2736.36,SUP004,31,6
+PRD0346,Apex Chargers & Cable 2251,Chargers & Cables,Apex,3215.28,2852.4,SUP008,27,9
+PRD0347,Zenith Batteries & Consumable 7005,Batteries & Consumables,Zenith,723.81,607.71,SUP004,30,6
+PRD0348,Vertex Batteries & Consumable 9290,Batteries & Consumables,Vertex,2727.01,2048.84,SUP008,20,9
+PRD0349,Pulse Storage Device 2667,Storage Devices,Pulse,9962.69,7989.34,SUP008,12,9
+PRD0350,Pulse Chargers & Cable 8948,Chargers & Cables,Pulse,3663.91,3284.77,SUP005,28,8
+PRD0351,Pulse Storage Device 3830,Storage Devices,Pulse,7767.54,5591.73,SUP004,16,6
+PRD0352,Pulse Chargers & Cable 8558,Chargers & Cables,Pulse,3075.61,2539.87,SUP002,32,5
+PRD0353,Zenith Chargers & Cable 1808,Chargers & Cables,Zenith,4541.8,3315.62,SUP003,32,9
+PRD0354,Zenith Mobile Phone 6638,Mobile Phones,Zenith,31045.9,23533.92,SUP003,35,9
+PRD0355,Nexon Storage Device 575,Storage Devices,Nexon,13268.22,10770.33,SUP004,29,6
+PRD0356,Pulse Storage Device 9268,Storage Devices,Pulse,8326.25,6864.3,SUP004,13,6
+PRD0357,Altura Chargers & Cable 2060,Chargers & Cables,Altura,3143.21,2522.96,SUP010,12,5
+PRD0358,CoreX Storage Device 982,Storage Devices,CoreX,18368.24,13825.54,SUP005,32,8
+PRD0359,Vertex Chargers & Cable 4861,Chargers & Cables,Vertex,489.17,371.36,SUP004,17,6
+PRD0360,Orion Laptop 7266,Laptops,Orion,61079.99,47006.02,SUP010,15,5
+PRD0361,Nexon Headphone 8029,Headphones,Nexon,12402.31,10532.26,SUP008,14,9
+PRD0362,Orion Laptop 7369,Laptops,Orion,83736.75,71856.89,SUP006,14,4
+PRD0363,NovaTech Headphone 8225,Headphones,NovaTech,1415.93,1156.44,SUP006,13,4
+PRD0364,Altura Mobile Phone 2554,Mobile Phones,Altura,39576.15,26951.13,SUP008,28,9
+PRD0365,Vivid Chargers & Cable 6742,Chargers & Cables,Vivid,2314.81,1913.46,SUP007,27,8
+PRD0366,Apex Headphone 3636,Headphones,Apex,10658.31,9384.33,SUP010,10,5
+PRD0367,Vertex Chargers & Cable 6168,Chargers & Cables,Vertex,4814.08,3660.19,SUP010,26,5
+PRD0368,Apex Headphone 4799,Headphones,Apex,13709.66,11824.51,SUP008,29,9
+PRD0369,Vertex Chargers & Cable 5906,Chargers & Cables,Vertex,2135.97,1723.75,SUP002,22,5
+PRD0370,Orion Headphone 9194,Headphones,Orion,14881.61,13389.4,SUP009,11,6
+PRD0371,Vertex Headphone 3219,Headphones,Vertex,5764.93,3943.95,SUP001,35,8
+PRD0372,Vivid Keyboards & Mice 1963,Keyboards & Mice,Vivid,4431.51,3615.42,SUP008,19,9
+PRD0373,Orion Chargers & Cable 7184,Chargers & Cables,Orion,731.17,501.35,SUP004,13,6
+PRD0374,NovaTech Headphone 2484,Headphones,NovaTech,,627.49,SUP004,26,6
+PRD0375,NovaTech Batteries & Consumable 4035,Batteries & Consumables,NovaTech,3481.84,2947.01,SUP005,11,8
+PRD0376,Altura Mobile Phone 7842,Mobile Phones,Altura,66425.58,58424.99,SUP008,22,9
+PRD0377,Zenith Keyboards & Mice 5542,Keyboards & Mice,Zenith,2536.31,1843.04,SUP005,16,8
+PRD0378,Pulse Batteries & Consumable 9234,Batteries & Consumables,Pulse,3904.62,2991.46,SUP008,12,9
+PRD0379,Nexon Chargers & Cable 2867,Chargers & Cables,Nexon,2608.17,2255.94,SUP010,20,5
+PRD0380,Apex Keyboards & Mice 4217,Keyboards & Mice,Apex,849.05,742.17,SUP001,30,8
+PRD0381,Zenith Chargers & Cable 4878,Chargers & Cables,Zenith,1252.68,1033.25,SUP010,33,5
+PRD0382,Vertex Chargers & Cable 3737,Chargers & Cables,Vertex,1997.41,1645.48,SUP009,25,6
+PRD0383,CoreX Smartwatche 6029,Smartwatches,CoreX,7606.68,5993,SUP006,12,4
+PRD0384,Pulse Mobile Phone 2099,Mobile Phones,Pulse,79799.89,66909.43,SUP003,32,9
+PRD0385,Apex Laptop 3835,Laptops,Apex,142971.22,101204.46,SUP008,23,9
+PRD0386,Vertex Chargers & Cable 795,Chargers & Cables,Vertex,934.56,679.44,SUP009,34,6
+PRD0387,Vivid Storage Device 8001,Storage Devices,Vivid,12811.09,9933.12,SUP006,26,4
+PRD0388,Vertex Chargers & Cable 7637,Chargers & Cables,Vertex,2046.56,1616.26,SUP007,21,8
+PRD0389,Altura Laptop 2941,Laptops,Altura,76455.81,59731.78,SUP001,32,8
+PRD0390,NovaTech Chargers & Cable 8833,Chargers & Cables,NovaTech,3195.56,2401.95,SUP005,23,8
+PRD0391,Nexon Smartwatche 1188,Smartwatches,Nexon,15470.5,11468.08,SUP005,34,8
+PRD0392,Orion Laptop 124,Laptops,Orion,45235.92,38602.7,SUP010,22,5
+PRD0393,Pulse Headphone 6244,Headphones,Pulse,14827.86,12292.95,SUP004,29,6
+PRD0394,Pulse Keyboards & Mice 4336,Keyboards & Mice,Pulse,499.18,432.37,SUP006,11,4
+PRD0395,Altura Keyboards & Mice 8168,Keyboards & Mice,Altura,2245.45,1547.99,SUP007,14,8
+PRD0396,Vivid Headphone 8548,Headphones,Vivid,10528.23,7315.01,SUP009,23,6
+PRD0397,Orion Headphone 3275,Headphones,Orion,10565.36,8394.62,SUP001,31,8
+PRD0398,Nexon Mobile Phone 4997,Mobile Phones,Nexon,35294.31,27056.56,SUP006,29,4
+PRD0399,Orion Mobile Phone 8705,Mobile Phones,Orion,20110.23,14125.07,SUP007,28,8
+PRD0400,Zenith Batteries & Consumable 1198,Batteries & Consumables,Zenith,3749.06,3112.26,SUP003,29,9
+PRD0401,Vertex Storage Device 3755,Storage Devices,Vertex,20980.43,15073.51,SUP008,28,9
+PRD0402,Vertex Headphone 9201,Headphones,Vertex,12160.37,10618.59,SUP005,15,8
+PRD0403,Apex Batteries & Consumable 2192,Batteries & Consumables,Apex,2204.23,1738.38,SUP009,24,6
+PRD0404,Vertex Chargers & Cable 5342,Chargers & Cables,Vertex,1277.87,1127.6,SUP005,23,8
+PRD0405,Zenith Keyboards & Mice 5747,Keyboards & Mice,Zenith,7057.5,6162.27,SUP009,34,6
+PRD0406,Apex Keyboards & Mice 5876,Keyboards & Mice,Apex,5470.33,3796.31,SUP010,30,5
+PRD0407,Nexon Mobile Phone 8013,Mobile Phones,Nexon,84221.15,70652.65,SUP004,17,6
+PRD0408,Zenith Mobile Phone 7455,Mobile Phones,Zenith,82076.03,73862.42,SUP009,17,6
+PRD0409,Apex Chargers & Cable 1597,Chargers & Cables,Apex,235.79,180.95,SUP005,34,8
+PRD0410,Altura Chargers & Cable 2655,Chargers & Cables,Altura,1919.27,1564.16,SUP010,9,5
+PRD0411,Apex Laptop 3051,Laptops,Apex,96861.81,83088.82,SUP009,16,6
+PRD0412,Nexon Batteries & Consumable 9265,Batteries & Consumables,Nexon,1031.72,818.55,SUP003,24,9
+PRD0413,Altura Smartwatche 4065,Smartwatches,Altura,21413.99,16354.09,SUP004,18,6
+PRD0414,Nexon Mobile Phone 9342,Mobile Phones,Nexon,33869.89,27276.3,SUP009,17,6
+PRD0415,Zenith Batteries & Consumable 2880,Batteries & Consumables,Zenith,850.92,751.86,SUP010,29,5
+PRD0416,Nexon Batteries & Consumable 1688,Batteries & Consumables,Nexon,3543.86,2982.56,SUP006,32,4
+PRD0417,Nexon Batteries & Consumable 2468,Batteries & Consumables,Nexon,882.17,659.73,SUP002,24,5
+PRD0418,NovaTech Mobile Phone 5889,Mobile Phones,NovaTech,61770.5,46988.71,SUP007,11,8
+PRD0419,Pulse Smartwatche 2928,Smartwatches,Pulse,7334.38,6225.55,SUP002,23,5
+PRD0420,Pulse Chargers & Cable 7670,Chargers & Cables,Pulse,1220.89,1052.13,SUP002,27,5
+PRD0421,Pulse Smartwatche 7580,Smartwatches,Pulse,18773.39,13393.62,SUP001,22,8
+PRD0422,Vivid Batteries & Consumable 282,Batteries & Consumables,Vivid,3287,2385.51,SUP003,32,9
+PRD0423,Nexon Chargers & Cable 6787,Chargers & Cables,Nexon,2113.27,1597.85,SUP006,34,4
+PRD0424,CoreX Storage Device 7751,Storage Devices,CoreX,8051.5,6315.51,SUP008,28,9
+PRD0425,Altura Storage Device 1689,Storage Devices,Altura,10803.31,9302.57,SUP009,12,6
+PRD0426,Orion Storage Device 8951,Storage Devices,Orion,8760.9,6027.14,SUP007,13,8
+PRD0427,Apex Keyboards & Mice 6655,Keyboards & Mice,Apex,2462.65,2143.89,SUP004,24,6
+PRD0428,Orion Laptop 8344,Laptops,Orion,79066.84,57412.46,SUP006,8,4
+PRD0429,Altura Headphone 6946,Headphones,Altura,10687.59,8017.68,SUP005,32,8
+PRD0430,Orion Storage Device 1328,Storage Devices,Orion,4497.41,3435.26,SUP008,26,9
+PRD0431,Nexon Laptop 7019,Laptops,Nexon,67467.05,48336.99,SUP001,11,8
+PRD0432,Apex Keyboards & Mice 9327,Keyboards & Mice,Apex,5774.9,4944.77,SUP001,24,8
+PRD0433,Nexon Laptop 6146,Laptops,Nexon,35883.23,31958.35,SUP006,16,4
+PRD0434,Apex Chargers & Cable 5045,Chargers & Cables,Apex,1951.33,1642.07,SUP010,31,5
+PRD0435,Altura Storage Device 7116,Storage Devices,Altura,14355.55,11342.99,SUP002,9,5
+PRD0436,NovaTech Storage Device 7858,Storage Devices,NovaTech,6146.02,5329.63,SUP005,15,8
+PRD0437,Vivid Laptop 5186,Laptops,Vivid,43518.37,30888.24,SUP001,22,8
+PRD0438,NovaTech Storage Device 7261,Storage Devices,NovaTech,5659.12,4281.82,SUP007,14,8
+PRD0439,CoreX Chargers & Cable 1909,Chargers & Cables,CoreX,4081.83,3122.2,SUP001,34,8
+PRD0440,Zenith Headphone 6452,Headphones,Zenith,15542.39,12646.43,SUP004,13,6
+PRD0441,Nexon Smartwatche 9109,Smartwatches,Nexon,26826.75,23358.27,SUP009,8,6
+PRD0442,Altura Keyboards & Mice 6156,,Altura,1188.7,897.57,SUP001,22,8
+PRD0443,Zenith Headphone 6568,Headphones,Zenith,16999.54,12274.44,SUP004,30,6
+PRD0444,Vivid Smartwatche 6051,Smartwatches,Vivid,3247.97,2723.55,SUP006,33,4
+PRD0445,Vivid Laptop 2724,Laptops,Vivid,141498.9,119471.36,SUP006,14,4
+PRD0446,Vertex Headphone 4332,Headphones,Vertex,14170.48,10181.08,SUP008,32,9
+PRD0447,Apex Keyboards & Mice 4623,Keyboards & Mice,Apex,4610.43,3757.52,SUP001,24,8
+PRD0448,Orion Laptop 9110,Laptops,Orion,82915.18,70483.52,SUP007,9,8
+PRD0449,Vertex Headphone 2324,Headphones,Vertex,16064.34,12865.35,SUP001,34,8
+PRD0450,Zenith Chargers & Cable 6191,Chargers & Cables,Zenith,4429.93,3883.93,SUP007,16,8
+PRD0451,Vertex Smartwatche 8762,Smartwatches,Vertex,27685.78,22217.28,SUP003,16,9
+PRD0452,CoreX Smartwatche 2048,Smartwatches,CoreX,2481.87,2212.92,SUP008,20,9
+PRD0453,NovaTech Storage Device 7194,Storage Devices,NovaTech,16518.08,12471.35,SUP003,13,9
+PRD0454,CoreX Smartwatche 6418,Smartwatches,CoreX,22697.1,19901.25,SUP001,13,8
+PRD0455,Nexon Chargers & Cable 3896,Chargers & Cables,Nexon,322.52,254.18,SUP008,27,9
+PRD0456,Pulse Laptop 334,Laptops,Pulse,75286.62,60106.7,SUP003,27,9
+PRD0457,Pulse Headphone 9220,Headphones,Pulse,17852.8,12254.79,SUP002,28,5
+PRD0458,Altura Keyboards & Mice 8143,Keyboards & Mice,Altura,8498.14,6182.86,SUP001,10,8
+PRD0459,NovaTech Mobile Phone 4988,Mobile Phones,NovaTech,38871.2,31459.67,SUP003,24,9
+PRD0460,Vivid Keyboards & Mice 7222,Keyboards & Mice,Vivid,5081.66,3644.99,SUP002,24,5
+PRD0461,Vertex Keyboards & Mice 1416,Keyboards & Mice,Vertex,897.8,724.21,SUP002,19,5
+PRD0462,CoreX Storage Device 1224,Storage Devices,CoreX,2184.54,1718.74,SUP006,23,4
+PRD0463,Zenith Batteries & Consumable 5523,Batteries & Consumables,Zenith,4055.16,2951.56,SUP001,22,8
+PRD0464,Nexon Chargers & Cable 2687,Chargers & Cables,Nexon,1255.04,860.06,SUP002,20,5
+PRD0465,Vivid Headphone 1478,Headphones,Vivid,12178.63,10932.83,SUP006,30,4
+PRD0466,Apex Mobile Phone 8035,Mobile Phones,Apex,30220.97,25465.49,SUP003,8,9
+PRD0467,Vertex Batteries & Consumable 5455,Batteries & Consumables,Vertex,404.72,278.79,SUP004,24,6
+PRD0468,Vivid Storage Device 9183,Storage Devices,Vivid,10730.31,7542.56,SUP001,10,8
+PRD0469,Nexon Laptop 4172,Laptops,Nexon,67310.29,58724.77,SUP008,33,9
+PRD0470,Apex Chargers & Cable 8688,Chargers & Cables,Apex,2450.53,2144.04,SUP007,22,8
+PRD0471,Orion Mobile Phone 4524,Mobile Phones,Orion,50283.35,35074.38,SUP007,11,8
+PRD0472,Zenith Laptop 3993,Laptops,Zenith,91533.71,69965.63,SUP003,11,9
+PRD0473,Altura Laptop 2105,Laptops,Altura,47109.89,41945.62,SUP010,25,5
+PRD0474,NovaTech Headphone 9488,Headphones,NovaTech,2439.14,1874.05,SUP010,24,5
+PRD0475,Apex Batteries & Consumable 4076,Batteries & Consumables,Apex,518.05,423.39,SUP003,26,9
+PRD0476,Altura Chargers & Cable 9067,Chargers & Cables,Altura,2817.95,2295.21,SUP002,18,5
+PRD0477,Nexon Headphone 7270,Headphones,Nexon,,2825.37,SUP001,27,8
+PRD0478,Zenith Smartwatche 9231,Smartwatches,Zenith,26078.91,19592.67,SUP007,10,8
+PRD0479,Pulse Storage Device 639,Storage Devices,Pulse,11114.63,9972.08,SUP007,15,8
+PRD0480,Altura Batteries & Consumable 1561,Batteries & Consumables,Altura,4466.63,3360.16,SUP002,21,5
+PRD0481,NovaTech Mobile Phone 8647,Mobile Phones,NovaTech,35572.26,25133.97,SUP007,33,8
+PRD0482,Pulse Headphone 334,Headphones,Pulse,5022.55,3919.18,SUP008,8,9
+PRD0483,Vertex Mobile Phone 1648,Mobile Phones,Vertex,63338.16,53923.96,SUP001,21,8
+PRD0484,Vivid Headphone 4313,Headphones,Vivid,17621.95,12959.14,SUP009,9,6
+PRD0485,Zenith Laptop 1773,Laptops,Zenith,96053.21,82631.62,SUP007,30,8
+PRD0486,Pulse Chargers & Cable 8082,Chargers & Cables,Pulse,411.21,341.13,SUP003,11,9
+PRD0487,Pulse Headphone 3848,Headphones,Pulse,13680.78,11502.08,SUP008,31,9
+PRD0488,Zenith Laptop 1915,Laptops,Zenith,93825.86,69417.21,SUP007,34,8
+PRD0489,Apex Headphone 8116,Headphones,Apex,2389.02,1789.94,SUP008,26,9
+PRD0490,Orion Headphone 4593,Headphones,Orion,2107.74,1449.43,SUP006,13,4
+PRD0491,CoreX Laptop 774,Laptops,CoreX,87584.08,75922.37,SUP009,32,6
+PRD0492,Vivid Keyboards & Mice 8678,Keyboards & Mice,Vivid,3278.74,2652.66,SUP005,8,8
+PRD0493,Zenith Mobile Phone 2164,Mobile Phones,Zenith,73962.1,54469.15,SUP003,24,9
+PRD0494,Zenith Headphone 5079,Headphones,Zenith,11208.96,9826.84,SUP003,15,9
+PRD0495,Altura Keyboards & Mice 9031,Keyboards & Mice,Altura,1618.65,1423.4,SUP001,26,8
+PRD0496,CoreX Chargers & Cable 3359,Chargers & Cables,CoreX,2949.29,2085.24,SUP008,28,9
+PRD0497,CoreX Headphone 4023,Headphones,CoreX,8091.51,6996.03,SUP002,8,5
+PRD0498,Nexon Mobile Phone 3327,Mobile Phones,Nexon,56549.68,40795.76,SUP003,12,9
+PRD0499,NovaTech Mobile Phone 2845,Mobile Phones,NovaTech,72528.95,51211.3,SUP008,34,9
+PRD0500,Zenith Batteries & Consumable 5918,Batteries & Consumables,Zenith,1322.77,1134.05,SUP008,23,9

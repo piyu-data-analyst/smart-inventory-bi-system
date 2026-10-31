@@ -1,0 +1,11 @@
+SupplierID,SupplierName,Location,AverageLeadTimeDays,DelayRate
+SUP001,A1 Electronics Distribution,Ahmedabad,8,0.08
+SUP002,BrightLink Wholesale,Mumbai,5,0.18
+SUP003,CircuitHub Supplies,Pune,9,0.12
+SUP004,DigitalCart Traders,Delhi,6,0.25
+SUP005,ElectroSource India,Bengaluru,8,0.1
+SUP006,FutureWave Distributors,Chennai,4,0.2
+SUP007,GadgetGrid Wholesale,Hyderabad,8,0.07
+SUP008,NexGen Components,Surat,9,0.15
+SUP009,Orbit Electronics,Rajkot,6,0.22
+SUP010,PrimeTech Supply,Vadodara,5,0.11
