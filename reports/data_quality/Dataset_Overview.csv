@@ -1,0 +1,8 @@
+Dataset,Total_Rows,Total_Columns,Duplicate_Rows,Total_Missing_Values
+Products,500,9,0,14
+Customers,2000,5,0,0
+Suppliers,10,5,0,0
+Sales,45225,8,222,180
+Inventory,6018,6,18,5441
+Purchase,3026,8,14,25
+Payments,6330,5,0,1923

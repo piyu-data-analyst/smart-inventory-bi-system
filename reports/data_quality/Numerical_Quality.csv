@@ -1,0 +1,6 @@
+Dataset,Column,Negative_Values,Zero_Values
+Sales,Quantity,45,0
+Sales,UnitPrice,0,0
+Purchase,Quantity,15,0
+Purchase,PurchaseCost,0,0
+Inventory,AvailableStock,20,362

@@ -1,0 +1,5 @@
+Dataset,Date_Column,Minimum_Date,Maximum_Date,Missing_Dates,Invalid_Dates,Future_Dates_After_2026_10_30
+Sales,SalesDate,2025-10-31,2026-11-05,60,0,25
+Purchase,OrderDate,2025-10-31,2026-10-30,0,0,0
+Inventory,SnapshotDate,2025-11-30,2026-10-30,0,0,0
+Payments,PaymentDate,2025-11-02,2026-11-27,1923,0,246

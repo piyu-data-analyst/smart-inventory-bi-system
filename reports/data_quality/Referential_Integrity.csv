@@ -1,0 +1,8 @@
+Relationship,Missing_IDs,Unmatched_IDs
+Sales -> ProductID,0,0
+Sales -> CustomerID,60,0
+Purchase -> ProductID,0,0
+Purchase -> SupplierID,0,0
+Inventory -> ProductID,0,0
+Payments -> Sales InvoiceID,0,0
+Sales -> Payments InvoiceID,0,38670

@@ -1,0 +1,10 @@
+Dataset,Column,Missing_Count,Missing_Percentage
+Products,Category,8,1.6
+Products,Price,6,1.2
+Sales,CustomerID,60,0.13
+Sales,UnitPrice,60,0.13
+Sales,SalesDate,60,0.13
+Inventory,WarehouseID,25,0.42
+Inventory,ExpiryDate,5416,90.0
+Purchase,DeliveryDate,25,0.83
+Payments,PaymentDate,1923,30.38
